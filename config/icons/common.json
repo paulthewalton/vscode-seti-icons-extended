@@ -7,13 +7,17 @@
         "typings": "typings_folder",
         "node_modules": "node_modules_folder",
         ".git": "git_folder",
-        "src": "src_folder"
+        "src": "src_folder",
+        "build": "build_folder",
+        "dist": "build_folder"
     },
     "folderNamesExpanded": {
         ".vscode": "vscode_folder_open",
         "typings": "typings_folder_open",
         "node_modules": "node_modules_folder_open",
         ".git": "git_folder_open",
-        "src": "src_folder_open"
+        "src": "src_folder_open",
+        "build": "build_folder_open",
+        "dist": "build_folder_open"
     }
 }

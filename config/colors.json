@@ -3,6 +3,10 @@
         "light": "#f7d97c",
         "dark": "#dd1d59"
     },
+    "asp": {
+        "light": "#008bcd",
+        "dark": "#01a0e2"
+    },
     "audio": {
         "light": "#5f8b3b",
         "dark": "#a074c4"
@@ -63,6 +67,10 @@
         "light": "#2b2829",
         "dark": "#d4d7d6"
     },
+    "lock": {
+        "light": "#2b2829",
+        "dark": "#d4d7d6"
+    },
     "deprecationcop": {
         "light": "",
         "dark": ""
@@ -112,6 +120,10 @@
         "dark": "#d4d7d6"
     },
     "git": {
+        "light": "#de4c36",
+        "dark": "#de4c36"
+    },
+    "git_commit": {
         "light": "#de4c36",
         "dark": "#de4c36"
     },
@@ -470,5 +482,25 @@
     "flow": {
         "light": "#ff9f14",
         "dark": "#ffdc67"
+    },
+    "prettier": {
+        "light": "#c596c7",
+        "dark": "#f8bc45"
+    },
+    "toml": {
+        "light": "#9c4221",
+        "dark": "#9c4221"
+    },
+    "build_folder": {
+        "light": "#ff9f14",
+        "dark": "#ff9f14"
+    },
+    "build_folder_open": {
+        "light": "#ff9f14",
+        "dark": "#ff9f14"
+    },
+    "nunjucks": {
+        "light": "#1c4913",
+        "dark": "#1e5b15"
     }
 }
