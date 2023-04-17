@@ -485,19 +485,19 @@
     },
     "prettier": {
         "light": "#c596c7",
-        "dark": "#f8bc45"
+        "dark": "#c596c7"
     },
     "toml": {
         "light": "#9c4221",
         "dark": "#9c4221"
     },
     "build_folder": {
-        "light": "#ff9f14",
-        "dark": "#ff9f14"
+        "light": "#01a0e2",
+        "dark": "#01a0e2"
     },
     "build_folder_open": {
-        "light": "#ff9f14",
-        "dark": "#ff9f14"
+        "light": "#01a0e2",
+        "dark": "#01a0e2"
     },
     "nunjucks": {
         "light": "#1c4913",
