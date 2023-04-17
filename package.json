@@ -2,7 +2,7 @@
   "name": "seti-icons-extended",
   "displayName": "seti-icons-extended",
   "description": "Icons for VS Code",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "pwalton",
   "icon": "icon.png",
   "engines": {

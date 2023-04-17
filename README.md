@@ -18,6 +18,12 @@ Icons for VS Code (version 1.5.0+)
 
 ## Changelog
 
+### **v0.1.6**
+
+1. FIX: `node_modules` folder open icon
+2. FIX: improved readability of nunjucks (`*.njk`) icon
+3. Added Apache `.htpasswd` icon support
+
 ### **v0.1.5**
 
 1. NEW: Build folder icon support (`build/`, `dist/`)
