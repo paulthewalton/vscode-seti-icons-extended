@@ -2,8 +2,8 @@
   "name": "seti-icons-extended",
   "displayName": "seti-icons-extended",
   "description": "Icons for VS Code",
-  "version": "0.1.4",
-  "publisher": "qinjia",
+  "version": "0.1.5",
+  "publisher": "pwalton",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.5.0"
