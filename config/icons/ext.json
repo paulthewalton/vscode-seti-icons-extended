@@ -156,6 +156,7 @@
 	"sql": "sql",
 	"bat": "bat",
 	"htaccess": "apache",
+	"htpasswd": "apache",
 	"wxml": "wxml",
 	"wxss": "wxss",
 	"ini": "config",
