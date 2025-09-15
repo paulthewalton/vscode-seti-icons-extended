@@ -18,6 +18,12 @@ Icons for VS Code (version 1.5.0+)
 
 ## Changelog
 
+### **v0.1.7**
+
+1. ESM & CommonJS ESLint config files icon support (`eslint.config.js`, `eslint.config.cjs`, `eslint.config.mjs`, `eslint.config.ts`, `eslint.config.cts`, `eslint.config.mts`)
+2. ESM & CommonJS Typescript files icon support (`*.cts`, `*.mts`)
+3. SVGX files icon support (`*.svgx`)
+
 ### **v0.1.6**
 
 1. FIX: `node_modules` folder open icon
