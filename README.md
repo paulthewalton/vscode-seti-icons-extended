@@ -18,6 +18,11 @@ Icons for VS Code (version 1.5.0+)
 
 ## Changelog
 
+### **v0.1.8**
+
+1. Fix ESLint config and Prettier config file icons
+2. .vscodeignore and *.code-workspace icon support
+
 ### **v0.1.7**
 
 1. ESM & CommonJS ESLint config files icon support (`eslint.config.js`, `eslint.config.cjs`, `eslint.config.mjs`, `eslint.config.ts`, `eslint.config.cts`, `eslint.config.mts`)
