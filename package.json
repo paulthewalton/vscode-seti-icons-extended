@@ -10,7 +10,8 @@
   },
   "scripts": {
     "make": "node ./lib/icon.js",
-    "glyphs": "node ./lib/glyph.js"
+    "glyphs": "node ./lib/glyph.js",
+    "package": "vsce package --allow-package-env-file"
   },
   "categories": [
     "Themes"
